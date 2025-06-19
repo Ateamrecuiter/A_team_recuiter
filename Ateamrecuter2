@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>About Us - A_team_Recruiter</title>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Inter', sans-serif;
+      background-color: #f9f9f9;
+      color: #333;
+    }
+    header {
+      background-color: #00264d;
+      color: white;
+      padding: 20px 0;
+      text-align: center;
+    }
+    nav {
+      background-color: #014080;
+      display: flex;
+      justify-content: center;
+      flex-wrap: wrap;
+      padding: 10px;
+    }
+    nav a {
+      color: white;
+      margin: 10px 15px;
+      text-decoration: none;
+      font-weight: 600;
+    }
+    .section {
+      padding: 40px 20px;
+      max-width: 1000px;
+      margin: auto;
+    }
+    .section h2 {
+      color: #014080;
+      margin-bottom: 20px;
+    }
+    .section p {
+      line-height: 1.7;
+      margin-bottom: 20px;
+    }
+    footer {
+      background-color: #00264d;
+      color: white;
+      text-align: center;
+      padding: 15px 10px;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>About Us</h1>
+  <p>Who We Are & What We Stand For</p>
+</header>
+
+<nav>
+  <a href="index.html">Home</a>
+  <a href="about.html">About Us</a>
+  <a href="services.html">Services</a>
+  <a href="industries.html">Industries</a>
+  <a href="employers.html">For Employers</a>
+  <a href="jobseekers.html">For Job Seekers</a>
+  <a href="contact.html">Contact</a>
+</nav>
+
+<section class="section">
+  <h2>Our Story</h2>
+  <p>A_team_Recruiter was founded with a single mission — to bridge the gap between skilled professionals and businesses in need of quality talent. We began as a small team with big ideas and a deep belief in the power of the right hire.</p>
+
+  <p>Over the years, we've partnered with startups, SMEs, and large enterprises to help them meet critical hiring demands across IT and Non-IT sectors. Today, we’re proud to be one of the fastest-growing recruitment consultancies offering tailored solutions, quick TATs, and a deep candidate network across India.</p>
+
+  <h2>Our Mission</h2>
+  <p>To connect organizations with top-tier talent through a transparent, effective, and value-driven recruitment process.</p>
+
+  <h2>Our Vision</h2>
+  <p>To be recognized as a trusted recruitment partner by consistently delivering the right people to power the future of businesses.</p>
+
+  <h2>Core Values</h2>
+  <ul>
+    <li>Integrity and Transparency</li>
+    <li>Speed with Quality</li>
+    <li>Client-first Approach</li>
+    <li>Candidate Empowerment</li>
+    <li>Long-term Partnerships</li>
+  </ul>
+</section>
+
+<footer>
+  <p>&copy; 2025 A_team_Recruiter. All rights reserved.</p>
+</footer>
+
+</body>
+</html>
