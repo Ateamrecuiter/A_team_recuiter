@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>For Job Seekers - A_team_Recruiter</title>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Inter', sans-serif;
+      background-color: #f9f9f9;
+      color: #333;
+    }
+    header {
+      background-color: #00264d;
+      color: white;
+      padding: 20px 0;
+      text-align: center;
+    }
+    nav {
+      background-color: #014080;
+      display: flex;
+      justify-content: center;
+      flex-wrap: wrap;
+      padding: 10px;
+    }
+    nav a {
+      color: white;
+      margin: 10px 15px;
+      text-decoration: none;
+      font-weight: 600;
+    }
+    .section {
+      padding: 40px 20px;
+      max-width: 900px;
+      margin: auto;
+    }
+    .section h2 {
+      color: #014080;
+      margin-bottom: 20px;
+    }
+    .section p {
+      line-height: 1.6;
+      margin-bottom: 15px;
+    }
+    .cta-button {
+      background-color: #014080;
+      color: white;
+      padding: 12px 24px;
+      border: none;
+      font-size: 1em;
+      border-radius: 6px;
+      text-decoration: none;
+      display: inline-block;
+      margin-top: 20px;
+    }
+    footer {
+      background-color: #00264d;
+      color: white;
+      text-align: center;
+      padding: 15px 10px;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>For Job Seekers</h1>
+  <p>Find the Right Job Faster</p>
+</header>
+
+<nav>
+  <a href="index.html">Home</a>
+  <a href="about.html">About Us</a>
+  <a href="services.html">Services</a>
+  <a href="industries.html">Industries</a>
+  <a href="employers.html">For Employers</a>
+  <a href="jobseekers.html">For Job Seekers</a>
+  <a href="contact.html">Contact</a>
+</nav>
+
+<section class="section">
+  <h2>We Help You Get Hired</h2>
+  <p>Looking for a job that matches your skills and goals? You're in the right place. A_team_Recruiter helps job seekers connect with verified job opportunities in both IT and Non-IT sectors.</p>
+
+  <p>Whether you're a fresher or an experienced professional, our recruiters will assist you at every step — from resume screening to interview scheduling and final placement.</p>
+
+  <h2>Submit Your Resume</h2>
+  <p>Submit your resume today and let our team reach out with suitable job opportunities.</p>
+
+  <a href="mailto:a.teamrecruiter@zohomail.in?subject=Job%20Application%20-%20Resume%20Submission" class="cta-button">Send Your Resume</a>
+  <a href="#" class="cta-button">Submit via Google Form</a> <!-- Add actual form link -->
+
+  <h2>Tips for Candidates</h2>
+  <ul>
+    <li>Keep your resume updated and accurate</li>
+    <li>Mention key skills and certifications</li>
+    <li>Be ready for quick interviews</li>
+    <li>Stay active and respond to recruiter calls</li>
+  </ul>
+</section>
+
+<footer>
+  <p>&copy; 2025 A_team_Recruiter. All rights reserved.</p>
+</footer>
+
+</body>
+</html>
