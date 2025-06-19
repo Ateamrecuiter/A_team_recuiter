@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Privacy Policy & Terms - A_team_Recruiter</title>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Inter', sans-serif;
+      background-color: #f9f9f9;
+      color: #333;
+    }
+    header {
+      background-color: #00264d;
+      color: white;
+      padding: 20px 0;
+      text-align: center;
+    }
+    nav {
+      background-color: #014080;
+      display: flex;
+      justify-content: center;
+      flex-wrap: wrap;
+      padding: 10px;
+    }
+    nav a {
+      color: white;
+      margin: 10px 15px;
+      text-decoration: none;
+      font-weight: 600;
+    }
+    .section {
+      padding: 40px 20px;
+      max-width: 900px;
+      margin: auto;
+    }
+    .section h2 {
+      color: #014080;
+      margin-bottom: 20px;
+    }
+    .section p {
+      line-height: 1.6;
+      margin-bottom: 15px;
+    }
+    footer {
+      background-color: #00264d;
+      color: white;
+      text-align: center;
+      padding: 15px 10px;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>Privacy Policy & Terms</h1>
+  <p>Your Trust, Our Responsibility</p>
+</header>
+
+<nav>
+  <a href="index.html">Home</a>
+  <a href="about.html">About Us</a>
+  <a href="services.html">Services</a>
+  <a href="industries.html">Industries</a>
+  <a href="employers.html">For Employers</a>
+  <a href="jobseekers.html">For Job Seekers</a>
+  <a href="contact.html">Contact</a>
+  <a href="testimonials.html">Testimonials</a>
+  <a href="clients.html">Clients</a>
+  <a href="team.html">Our Team</a>
+  <a href="privacy.html">Privacy Policy</a>
+</nav>
+
+<section class="section">
+  <h2>Privacy Policy</h2>
+  <p>At A_team_Recruiter, we are committed to protecting your privacy. We collect only the necessary personal information required to provide our recruitment services. This includes resumes, contact details, and professional background, which are shared strictly with hiring partners upon consent.</p>
+  <p>We do not sell or misuse your data. All information is stored securely and used solely for recruitment and hiring purposes.</p>
+
+  <h2>Terms & Conditions</h2>
+  <p>By using our services, you agree to share accurate and truthful information about your profile or hiring needs. We reserve the right to decline services in cases of false data or unethical behavior.</p>
+  <p>A_team_Recruiter is not responsible for the final decisions of employers or job seekers. We act as a bridge and make every effort to match suitable opportunities, but outcomes depend on mutual agreement and performance.</p>
+</section>
+
+<footer>
+  <p>&copy; 2025 A_team_Recruiter. All rights reserved.</p>
+</footer>
+
+</body>
+</html>
