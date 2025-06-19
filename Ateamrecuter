@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>A_team_Recruiter - Home</title>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Inter', sans-serif;
+      background-color: #f9f9f9;
+      color: #333;
+    }
+    header {
+      background-color: #00264d;
+      color: white;
+      padding: 20px 0;
+      text-align: center;
+    }
+    nav {
+      background-color: #014080;
+      display: flex;
+      justify-content: center;
+      flex-wrap: wrap;
+      padding: 10px;
+    }
+    nav a {
+      color: white;
+      margin: 10px 15px;
+      text-decoration: none;
+      font-weight: 600;
+    }
+    .hero {
+      background-color: #e6f2ff;
+      padding: 60px 20px;
+      text-align: center;
+    }
+    .hero h1 {
+      font-size: 2.8em;
+      margin-bottom: 15px;
+    }
+    .hero p {
+      font-size: 1.2em;
+    }
+    .section {
+      padding: 40px 20px;
+      max-width: 1100px;
+      margin: auto;
+    }
+    .section h2 {
+      color: #014080;
+      margin-bottom: 20px;
+    }
+    .about-content {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 30px;
+    }
+    .about-text, .about-image {
+      flex: 1 1 45%;
+    }
+    .about-image img {
+      max-width: 100%;
+      border-radius: 8px;
+    }
+    .cta-button {
+      background-color: #014080;
+      color: white;
+      padding: 12px 24px;
+      border: none;
+      font-size: 1em;
+      margin-top: 20px;
+      cursor: pointer;
+      border-radius: 6px;
+      text-decoration: none;
+      display: inline-block;
+    }
+    footer {
+      background-color: #00264d;
+      color: white;
+      text-align: center;
+      padding: 15px 10px;
+    }
+    @media (max-width: 768px) {
+      .about-content {
+        flex-direction: column;
+      }
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>A_team_Recruiter</h1>
+  <p>Your Trusted Hiring Partner</p>
+</header>
+
+<nav>
+  <a href="index.html">Home</a>
+  <a href="about.html">About Us</a>
+  <a href="services.html">Services</a>
+  <a href="industries.html">Industries</a>
+  <a href="employers.html">For Employers</a>
+  <a href="jobseekers.html">For Job Seekers</a>
+  <a href="contact.html">Contact</a>
+</nav>
+
+<section class="hero">
+  <h1>Connecting Talent with Opportunity</h1>
+  <p>Recruitment solutions that work for your business</p>
+  <a href="contact.html" class="cta-button">Hire Talent</a>
+</section>
+
+<section class="section" id="home-about">
+  <h2>Welcome to A_team_Recruiter</h2>
+  <div class="about-content">
+    <div class="about-text">
+      <p>At A_team_Recruiter, we believe recruitment is not just about filling roles – it’s about building teams. With over 5 years of experience in both IT and Non-IT hiring, our mission is to help startups and enterprises find the right people to grow their business.</p>
+      <p>We offer permanent staffing, executive search, fresher hiring, and bulk hiring solutions with speed, precision, and integrity.</p>
+      <a href="about.html" class="cta-button">More About Us</a>
+    </div>
+    <div class="about-image">
+      <img src="https://images.unsplash.com/photo-1605902711622-cfb43c4437f9" alt="Recruitment Team" />
+    </div>
+  </div>
+</section>
+
+<footer>
+  <p>&copy; 2025 A_team_Recruiter. All rights reserved.</p>
+</footer>
+
+</body>
+</html>
