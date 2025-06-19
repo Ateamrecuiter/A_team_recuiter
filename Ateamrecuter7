@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Contact Us - A_team_Recruiter</title>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Inter', sans-serif;
+      background-color: #f9f9f9;
+      color: #333;
+    }
+    header {
+      background-color: #00264d;
+      color: white;
+      padding: 20px 0;
+      text-align: center;
+    }
+    nav {
+      background-color: #014080;
+      display: flex;
+      justify-content: center;
+      flex-wrap: wrap;
+      padding: 10px;
+    }
+    nav a {
+      color: white;
+      margin: 10px 15px;
+      text-decoration: none;
+      font-weight: 600;
+    }
+    .section {
+      padding: 40px 20px;
+      max-width: 900px;
+      margin: auto;
+    }
+    .section h2 {
+      color: #014080;
+      margin-bottom: 20px;
+    }
+    .section p {
+      margin-bottom: 10px;
+      line-height: 1.6;
+    }
+    .contact-info {
+      background-color: #ffffff;
+      padding: 20px;
+      border-radius: 8px;
+      box-shadow: 0 0 10px rgba(0,0,0,0.05);
+    }
+    .contact-info p strong {
+      display: inline-block;
+      width: 120px;
+    }
+    .cta-button {
+      background-color: #014080;
+      color: white;
+      padding: 12px 24px;
+      border: none;
+      font-size: 1em;
+      border-radius: 6px;
+      text-decoration: none;
+      display: inline-block;
+      margin-top: 20px;
+    }
+    footer {
+      background-color: #00264d;
+      color: white;
+      text-align: center;
+      padding: 15px 10px;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>Contact Us</h1>
+  <p>We’re here to help you hire or get hired</p>
+</header>
+
+<nav>
+  <a href="index.html">Home</a>
+  <a href="about.html">About Us</a>
+  <a href="services.html">Services</a>
+  <a href="industries.html">Industries</a>
+  <a href="employers.html">For Employers</a>
+  <a href="jobseekers.html">For Job Seekers</a>
+  <a href="contact.html">Contact</a>
+</nav>
+
+<section class="section">
+  <h2>Get In Touch</h2>
+  <div class="contact-info">
+    <p><strong>Email:</strong> <a href="mailto:a.teamrecruiter@zohomail.in">a.teamrecruiter@zohomail.in</a></p>
+    <p><strong>Phone:</strong> +91 9346264405</p>
+    <p><strong>WhatsApp:</strong> <a href="https://wa.me/919346264405" target="_blank">Click to Chat</a></p>
+    <p><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/company/a-team-recruiter-com/" target="_blank">A_team_Recruiter</a></p>
+    <p><strong>Business Hours:</strong> Mon - Sat, 10 AM to 7 PM</p>
+  </div>
+
+  <a href="mailto:a.teamrecruiter@zohomail.in?subject=Inquiry%20-%20A_team_Recruiter" class="cta-button">Email Us Now</a>
+</section>
+
+<footer>
+  <p>&copy; 2025 A_team_Recruiter. All rights reserved.</p>
+</footer>
+
+</body>
+</html>
