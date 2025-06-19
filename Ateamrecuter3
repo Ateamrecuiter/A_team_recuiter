@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Our Services - A_team_Recruiter</title>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Inter', sans-serif;
+      background-color: #f9f9f9;
+      color: #333;
+    }
+    header {
+      background-color: #00264d;
+      color: white;
+      padding: 20px 0;
+      text-align: center;
+    }
+    nav {
+      background-color: #014080;
+      display: flex;
+      justify-content: center;
+      flex-wrap: wrap;
+      padding: 10px;
+    }
+    nav a {
+      color: white;
+      margin: 10px 15px;
+      text-decoration: none;
+      font-weight: 600;
+    }
+    .section {
+      padding: 40px 20px;
+      max-width: 1000px;
+      margin: auto;
+    }
+    .section h2 {
+      color: #014080;
+      margin-bottom: 20px;
+    }
+    .service-item {
+      margin-bottom: 30px;
+    }
+    .service-item h3 {
+      margin-bottom: 10px;
+      color: #014080;
+    }
+    .service-item p {
+      line-height: 1.6;
+    }
+    footer {
+      background-color: #00264d;
+      color: white;
+      text-align: center;
+      padding: 15px 10px;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>Our Services</h1>
+  <p>Tailored Hiring Solutions for Every Business</p>
+</header>
+
+<nav>
+  <a href="index.html">Home</a>
+  <a href="about.html">About Us</a>
+  <a href="services.html">Services</a>
+  <a href="industries.html">Industries</a>
+  <a href="employers.html">For Employers</a>
+  <a href="jobseekers.html">For Job Seekers</a>
+  <a href="contact.html">Contact</a>
+</nav>
+
+<section class="section">
+  <h2>What We Offer</h2>
+
+  <div class="service-item">
+    <h3>Permanent Staffing</h3>
+    <p>We identify long-term talent that aligns with your company goals. Our rigorous selection ensures only the most suitable candidates are recommended for permanent positions.</p>
+  </div>
+
+  <div class="service-item">
+    <h3>Contract & Temporary Hiring</h3>
+    <p>Need short-term workforce? We provide flexible contract-based professionals to help you handle workload peaks or project-based roles efficiently.</p>
+  </div>
+
+  <div class="service-item">
+    <h3>Executive Search</h3>
+    <p>Our leadership hiring solutions connect you with experienced executives and managers who can drive strategy and growth at a senior level.</p>
+  </div>
+
+  <div class="service-item">
+    <h3>Bulk/Volume Hiring</h3>
+    <p>We handle mass hiring drives with accuracy and speed — especially for sales, operations, and support roles across locations.</p>
+  </div>
+
+  <div class="service-item">
+    <h3>IT & Non-IT Recruitment</h3>
+    <p>From developers and engineers to accountants and admins, we cover a wide range of job roles across industries.</p>
+  </div>
+
+  <div class="service-item">
+    <h3>Fresher & Entry-Level Hiring</h3>
+    <p>We help you hire fresh graduates and young professionals who are screened for potential and cultural fit, ready to grow with your business.</p>
+  </div>
+</section>
+
+<footer>
+  <p>&copy; 2025 A_team_Recruiter. All rights reserved.</p>
+</footer>
+
+</body>
+</html>
