@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>For Employers - A_team_Recruiter</title>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Inter', sans-serif;
+      background-color: #f9f9f9;
+      color: #333;
+    }
+    header {
+      background-color: #00264d;
+      color: white;
+      padding: 20px 0;
+      text-align: center;
+    }
+    nav {
+      background-color: #014080;
+      display: flex;
+      justify-content: center;
+      flex-wrap: wrap;
+      padding: 10px;
+    }
+    nav a {
+      color: white;
+      margin: 10px 15px;
+      text-decoration: none;
+      font-weight: 600;
+    }
+    .section {
+      padding: 40px 20px;
+      max-width: 900px;
+      margin: auto;
+    }
+    .section h2 {
+      color: #014080;
+      margin-bottom: 20px;
+    }
+    .section p {
+      line-height: 1.6;
+      margin-bottom: 15px;
+    }
+    .cta-button {
+      background-color: #014080;
+      color: white;
+      padding: 12px 24px;
+      border: none;
+      font-size: 1em;
+      border-radius: 6px;
+      text-decoration: none;
+      display: inline-block;
+      margin-top: 20px;
+    }
+    footer {
+      background-color: #00264d;
+      color: white;
+      text-align: center;
+      padding: 15px 10px;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>For Employers</h1>
+  <p>Post Jobs & Hire Talent Quickly</p>
+</header>
+
+<nav>
+  <a href="index.html">Home</a>
+  <a href="about.html">About Us</a>
+  <a href="services.html">Services</a>
+  <a href="industries.html">Industries</a>
+  <a href="employers.html">For Employers</a>
+  <a href="jobseekers.html">For Job Seekers</a>
+  <a href="contact.html">Contact</a>
+</nav>
+
+<section class="section">
+  <h2>Why Hire Through Us?</h2>
+  <p>At <strong>A_team_Recruiter</strong>, we understand the importance of hiring the right talent, fast. Our process ensures that only pre-screened, qualified, and job-ready candidates reach you — saving your HR team time and cost.</p>
+
+  <ul>
+    <li>✔️ Fast Turnaround Time</li>
+    <li>✔️ Only Verified, Skilled Profiles</li>
+    <li>✔️ Personalized Recruitment Support</li>
+    <li>✔️ Affordable Success-based Fee Model</li>
+  </ul>
+
+  <h2>How to Post a Job</h2>
+  <p>Hiring with us is simple. Just reach out via WhatsApp or email, and our team will coordinate end-to-end. You can also share job details through a Google Form.</p>
+
+  <a href="https://wa.me/919346264405" class="cta-button" target="_blank">WhatsApp Us</a>
+  <a href="mailto:a.teamrecruiter@zohomail.in" class="cta-button">Email Job Requirements</a>
+  <a href="#" class="cta-button">Post via Google Form</a> <!-- Replace # with actual form link if available -->
+</section>
+
+<footer>
+  <p>&copy; 2025 A_team_Recruiter. All rights reserved.</p>
+</footer>
+
+</body>
+</html>
