@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Welcome to A_team_recuiter!</title>
+</head>
+<body>
+  <h1>Welcome to A_team_recuiter GitHub Pages Site</h1>
+  <p>Your site is set up! You can now customize this page.</p>
+</body>
+</html>
